@@ -1,7 +1,9 @@
-### Hi there 👋
+# Hello <img src="https://ik.imagekit.io/n0t5masg5jg/persona/ezgif.com-gif-maker__3__h3nyy_q_V.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1648714821182" height="30"/>
 
-<!--
-**kamaludin21/kamaludin21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :rocket: Tech Stack
+
+- 
+
 
 Here are some ideas to get you started:
 
